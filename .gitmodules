@@ -1,0 +1,9 @@
+[submodule "libstm32h743"]
+	path = libstm32h743
+	url = git@github.com:proyrbreginald/libstm32h743.git
+[submodule "bootloader"]
+	path = bootloader
+	url = git@github.com:proyrbreginald/bootloader.git
+[submodule "app_template"]
+	path = app_template
+	url = git@github.com:proyrbreginald/app_template.git
